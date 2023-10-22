@@ -1,7 +1,7 @@
 # Trilha JS Developer - Pokedex
 
 <p align="center">
- <a href="https://alinesemog.github.io/pojeto-pokedex/" target="_blank">🔗 Link Pokedex</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="https://alinesemog.github.io/pojeto-pokedex/" target="_blank">🔗 Link Pokedex</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 Projeto desenvolvido como exercício de JavaScript. 
